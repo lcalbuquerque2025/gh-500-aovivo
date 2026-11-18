@@ -1,0 +1,10 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "MyDemo_GitHub_Token": "github_pat_TESTE1234567890ABCDEF123456789dsaddfdsgfdfgfhfgh0XYZ"
+}
